@@ -128,9 +128,9 @@ end
 
 # Write code here
 
-def players
-  game_hash[:hame][:players].merge(game_hash[:away][:players])
-end
+#def players
+ # game_hash[:hame][:players].merge(game_hash[:away][:players])
+ #end
 
 def team team_name
   case team_name
