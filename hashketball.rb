@@ -128,7 +128,7 @@ end
 
 # Write code here
 
-def plarers
+def players
   game_hash[:hame][:players].merge(game_hash[:away][:players])
 end
 
